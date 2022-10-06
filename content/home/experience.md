@@ -25,7 +25,7 @@ experience:
   - title: Security Research Intern
     company: Georgia Institute of Technology
     company_url: 'https://gts3.org'
-    company_logo: gt
+    # company_logo: gt
     location: Atlanta, GA
     date_start: '2021-07-01'
     date_end: '2022-04-30'
