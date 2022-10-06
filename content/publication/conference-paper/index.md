@@ -10,7 +10,7 @@ authors:
   - N. Spahn
   - G. Vigna
   - C. Kruegel
-  - and T. Kim.
+  - T. Kim.
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
