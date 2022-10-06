@@ -25,7 +25,7 @@ experience:
   - title: Security Research Intern
     company: Georgia Institute of Technology
     company_url: 'https://gts3.org'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Atlanta, GA
     date_start: '2021-07-01'
     date_end: '2022-04-30'
@@ -39,7 +39,7 @@ experience:
   - title: Security Research Intern
     company: University of California, Santa Barbara
     company_url: 'https://seclab.cs.ucsb.edu/'
-    company_logo: org-x
+    # company_logo: org-x
     location: Santa Barbara, CA
     date_start: '2020-05-01'
     date_end: '2021-06-30'
