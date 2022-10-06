@@ -22,19 +22,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/rjt-gupta
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Georgia Institute of Technology
+      year: ""
+    - course: B.Tech in Computer Science
+      institution: Vellore Institute of Technology
+      year: ""
 superuser: true
 last_name: Bighetti
 role: Security Researcher (Ph.D.)
@@ -43,7 +40,7 @@ title: Rajat Gupta
 first_name: Alice
 email: ""
 ---
-Hello! I'm Rajat. I'm a Security Research Ph.D. candidate at SSLab Georgia Tech advised by Prof. Taesoo Kim
+Hello! I'm Rajat. I'm a Computer Science Ph.D. candidate at SSLab Georgia Tech advised by Prof. Taesoo Kim
 
 My research interests include vulnerability research of complex software like browsers, and OS kernels. I am very fortunate to have worked with some of the best hacker minds on this planet!
 
