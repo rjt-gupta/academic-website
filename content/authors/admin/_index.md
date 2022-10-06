@@ -1,5 +1,5 @@
 ---
-avatar_filename: rajat.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
