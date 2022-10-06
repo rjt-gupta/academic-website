@@ -26,7 +26,7 @@ organizations:
     url: https://www.gatech.edu/
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Georgia Institute of Technology
       year: ""
     - course: B.Tech in Computer Science
