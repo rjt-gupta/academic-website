@@ -14,16 +14,16 @@ authors:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_dataset: https://github.com/rjt-gupta
 url_project: ""
 author_notes: []
 publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+# url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_video: https://youtube.com
 publication: Proceedings of the Annual Computer Security Applications Conference
   (ACSAC), 2022
-featured: false
-date: 2013-07-01T00:00:00.000Z
+featured: true
+date: 2013-07-01T00:00:00Z
 url_slides: ""
 title: "POPKORN: Popping Windows kernel drivers at Scale"
 tags: []
@@ -32,9 +32,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
 ---
 
