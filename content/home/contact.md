@@ -25,32 +25,30 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: rgupta415@gatech.edu
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 756 West Peachtree St NW, CODA Building, SSLab 5th floor
+    city: Atlanta
+    region: GA
+    postcode: '30309'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  #coordinates:
+   # latitude: '37.4275'
+    # longitude: '-122.1697'
+  # directions: 
+  # office_hours:
+    # - 
+  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/z3ta_rjt'
+    #- icon: video
+     # icon_pack: fas
+      #name: Zoom Me
+      #link: 'https://zoom.com'
 
 design:
   columns: '2'
