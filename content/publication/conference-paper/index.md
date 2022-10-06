@@ -22,8 +22,8 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: Proceedings of the Annual Computer Security Applications Conference
   (ACSAC), 2022
-featured: true
-date: 2013-07-01T00:00:00Z
+featured: false
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: "POPKORN: Popping Windows kernel drivers at Scale"
 tags: []
@@ -32,7 +32,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
