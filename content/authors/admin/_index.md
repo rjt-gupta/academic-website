@@ -5,7 +5,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:rgupta415@gatech.edu
+    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/z3ta_rjt
