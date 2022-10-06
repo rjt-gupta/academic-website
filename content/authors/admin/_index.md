@@ -44,4 +44,4 @@ Hello! I'm Rajat. I'm a Computer Science Ph.D. candidate at SSLab Georgia Tech a
 
 My research interests include vulnerability research of complex software like browsers, and OS kernels. I am very fortunate to have worked with some of the best hacker minds on this planet!
 
-# {{< icon name="download" pack="fas" >}} {{< staticref "assets/media/resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "assets/media/resume.pdf" "newtab" >}}Resumé{{< /staticref >}} -->
