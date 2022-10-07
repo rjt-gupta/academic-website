@@ -31,7 +31,7 @@ education:
       year: ""
     - course: B.Tech in Computer Science
       institution: Vellore Institute of Technology
-      year: ""
+      year: 2021
 superuser: true
 last_name: Bighetti
 role: Security Researcher (Ph.D.)
