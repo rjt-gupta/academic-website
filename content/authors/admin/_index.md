@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Georgia Institute of Technology
-      year: ""
+      year: 2026
     - course: B.Tech in Computer Science
       institution: Vellore Institute of Technology
       year: 2021
