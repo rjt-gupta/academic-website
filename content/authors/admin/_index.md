@@ -24,6 +24,13 @@ social:
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/
+    
+# Interests to show in About widget
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+ 
 education:
   courses:
     - course: Ph.D. in Computer Science
