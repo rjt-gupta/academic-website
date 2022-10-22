@@ -27,9 +27,10 @@ organizations:
     
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Vulnerability Research
+  - Browser Security
+  - Kernel Security
+  - Fuzzing and Static Analysis
  
 education:
   courses:
